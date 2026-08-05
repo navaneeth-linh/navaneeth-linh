@@ -8,7 +8,6 @@
 - 🎓 B.Tech EEE student at **Muthoot Institute of Science and Technology (MITS)**, Kerala — graduating 2027
 - 🏭 Interned at **Cochin Shipyard Limited (CSL)** — rated Good
 - ⚡ Served as **Electrical Lead** on an Electric Go-Kart that raced at **Kari Motor Speedway, Coimbatore**
-- 🔧 Final Year Project: **Solid State Transformer (SST)** using SiC MOSFETs and DAB DC/DC converter
 - 🌱 Currently working with **Siemens S7-1200** and **TIA Portal**
 - 📍 Kerala, India
 
