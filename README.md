@@ -77,11 +77,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneeth-linh&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-linh&layout=compact&theme=dark&hide_border=true" width="38%"/>
-</p>
-
+[![Navaneeth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navaneeth-linh&theme=github-compact&hide_border=true)](https://github.com/navaneeth-linh)
 ---
 
 ## 🤝 Connect with Me
